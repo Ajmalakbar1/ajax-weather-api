@@ -1,6 +1,14 @@
+
 h1{
     text-align: center;
+    color: black;
+
 }
 .temp{
     text-align: center;
+    padding-top: auto;
+
+}
+span{
+    text-align: left;
 }
